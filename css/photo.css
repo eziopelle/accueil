@@ -1,0 +1,44 @@
+.container4 {
+margin : 0px;
+padding : 50px;
+display: flex;
+justify-content: space-between;
+background-color: #E0D5D5;
+}
+
+.container5 {
+margin: 50px;
+padding : 20px;
+}
+
+.container5 h2{
+color : black;
+}
+
+
+.card1{
+width: 700px;
+height: 300px;
+padding: 20px;
+margin: 40px;
+border-radius: 5px;
+}
+
+#c4 {
+background-image: url(../images/ballon1.jpg);
+background-size: cover;
+}
+
+#c5 {
+background-image: url(../images/ballon3.jpg);
+background-size: cover;
+}
+
+#c6 {
+background-image: url(../images/ballon2.jpg);
+background-size: cover;
+}
+
+.container4b {
+margin: 10px;
+}

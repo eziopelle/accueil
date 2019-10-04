@@ -1,0 +1,36 @@
+.cards {
+display: flex;
+justify-content: space-around;
+margin: 0px;
+padding:100px;
+background-color: #E0D5D5;
+}
+
+.card{
+width: 600px;
+height: 400px;
+padding: 20px;
+margin: 10px;
+border-radius: 10px;
+border-color: grey;
+border : solid;
+background-color: white;
+}
+
+.card h2 {
+font-family: 'Open Sans', sans-serif;
+font-weight: lighter;
+color: black;
+font-size: 25px;
+display: flex;
+justify-content: center;
+margin: 0px;
+}
+
+.card:hover {
+color :orange;
+}
+
+.card:hover h2{
+color :orange;
+}
